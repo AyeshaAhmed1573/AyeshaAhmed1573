@@ -13,7 +13,7 @@
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,firebase,nodejs,py" height="50" style="margin: 20px;" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,firebase,nodejs,py" height="50" style="margin: 20px;" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="50" style="margin: 20px;" />
 </div>
