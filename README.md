@@ -1,39 +1,52 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hi 👋, I'm Ayesha Ahmed</h1>
 
-###
+<p align="center">
+  🌱 I’m currently learning <strong>Full-Stack Web Development</strong>
+</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" alt="Coding" />
 </div>
 
-###
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,firebase,nodejs,py" height="50" style="margin: 20px;" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" height="50" style="margin: 20px;" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaAhmed1573&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaAhmed1573&layout=compact&theme=dracula" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyeshaAhmed1573&theme=dracula" height="150" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyeshaAhmed1573&theme=dracula&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ayesha-ahmed-7a3b77262" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ayesha%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AyeshaAhmed1573&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />&nbsp;
-  <img src="https://github-profile-trophy.vercel.app?username=AyeshaAhmed1573&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="300" alt="Woman Coding GIF" />
-</div>
+---
