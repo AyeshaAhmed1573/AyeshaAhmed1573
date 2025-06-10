@@ -1,45 +1,54 @@
 <h1 align="center">Hi 👋, I'm Ayesha Ahmed</h1>
 
 <p align="center">
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="Twitter Follow"></a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"></a>
+  🌱 I’m currently learning <strong>Full-Stack Web Development</strong>
 </p>
 
-### 🌱 I’m currently learning **Full‑Stack Web Development**
+<div align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" alt="Coding" />
+</div>
 
-### 🧰 Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,express,firebase,nodejs,py" height="50" style="margin: 20px;" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" height="50" style="margin: 20px;" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaAhmed1573&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyeshaAhmed1573&layout=compact&theme=dracula" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyeshaAhmed1573&theme=dracula" height="150" />
 </p>
 
 ---
 
-## 📊 My GitHub Stats
+## 🏆 GitHub Achievements
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AyeshaAhmed1573&show_icons=true&theme=dracula&layout=compact" alt="Ayesha's Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AyeshaAhmed1573&show_icons=true&theme=dracula" alt="Ayesha's GitHub Stats"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AyeshaAhmed1573&theme=dracula&margin-w=10&margin-h=10" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyeshaAhmed1573&theme=dracula" alt="Ayesha's GitHub Streak" />
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayesha-ahmed-7a3b77262" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayesha%20Ahmed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🏆 Trophy Showcase
-
-![trophy](https://github-profile-trophy.vercel.app/?username=AyeshaAhmed1573&theme=dracula&no-frame=true)
-
----
-
-## 🎲 GitHub Contribution Snake
-
-```markdown
-![Contribution Snake](https://github.com/AyeshaAhmed1573/AyeshaAhmed1573/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">✨ Profile last updated on: June 2025 ✨</p>
